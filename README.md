@@ -13,14 +13,14 @@
 
 **Gems used**
 
-* The usem used was "rspec" taken from https://rubygems.org
+* The Gem used was "rspec" taken from https://rubygems.org
 
 
 **How to use the application**
 
 * The application can be used by accessing Terminal and entering irb.
   Open 'fizz_buzz.rb' from the lib folder, create a new array,
-  add: `100.times {|n| output << fizz_buzz(n+1)}` and run the array.
+  then write : `100.times {|n| output << fizz_buzz(n+1)}` and run the array.
 
 
 **Resources**
